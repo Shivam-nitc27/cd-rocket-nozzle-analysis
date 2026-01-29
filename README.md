@@ -1,28 +1,15 @@
-\#  🚀 Convergent-Divergent Rocket Nozzle Analysis
+🚀 Convergent-Divergent Rocket Nozzle Analysis
 
-
-
-\##  📌 Project Overview
-
+📌 Project Overview
 This repository contains thermochemistry analysis using RPA and 2D axisymmetric CFD analysis of convergent-divergent rocket nozzle. The simulation captures the transition from subsonic to supersonic flow, including the formation of shock diamond structures in the exhaust plume.
 
-
-
-\##  🧪 RPA Thermochemistry Analysis
-
+🧪 RPA Thermochemistry Analysis
 Before running the CFD, I performed a thermochemical analysis using Rocket Propulsion Analysis to establish performance targets for the rocket propellant used in CFD. 
 
-
-
-\###  Performance Targets (Sea Level)
-
+Performance Targets (Sea Level)
 I used the Estimated Delivered values for my CFD analysis, as they account for real-world chemical and kinetic losses.
 
-
-
 Setup Values given to RPA
-
-
 
 | \*\*Absolute Chamber Pressure ($P\_{c}$)\*\* | 30 bar |
 
