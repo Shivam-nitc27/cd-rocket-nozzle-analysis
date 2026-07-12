@@ -4,6 +4,14 @@ An independent aerospace engineering project focused on the design, analysis, an
 
 ---
 
+## Project Report
+
+The complete technical report describing the analytical calculations, RPA, CFD, structural, and thermal analyses is available below.
+
+📄 [Rocket Nozzle Project Report](Report/Rocket_Nozzle_Project_Report.pdf)
+
+---
+
 # Project Objective
 
 The objective of this project was to investigate the complete behaviour of a rocket nozzle under realistic operating conditions by integrating multiple engineering approaches:
