@@ -95,6 +95,10 @@ The nozzle dimensions and operating conditions were first determined analyticall
 
 ![RPA Results](Images/RPA_Results_2.png)
 
+The complete Rocket Propulsion Analysis output is available here:
+
+📄 [View RPA Results](RPA/rocket_nozzle_rpa_results.pdf)
+
 ---
 
 # Geometry
