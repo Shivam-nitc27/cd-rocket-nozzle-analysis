@@ -91,7 +91,9 @@ The nozzle dimensions and operating conditions were first determined analyticall
 
 ![Propellant Specifications](Images/Propellant_Specifications.png)
 
-![RPA Results](Images/RPA_Results.png)
+![RPA Results](Images/RPA_Results_1.png)
+
+![RPA Results](Images/RPA_Results_2.png)
 
 ---
 
